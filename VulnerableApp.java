@@ -37,4 +37,7 @@ public class VulnerableApp {
         // This example doesn't use any session management to track user state after login.
         System.out.println("No session management implemented.");
     }
+
+    int add(int a, int b){
+        return a+b;
 }
